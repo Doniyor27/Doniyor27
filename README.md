@@ -1,4 +1,4 @@
-<!-- [![Header](https://github.com/mukhammadyn/mukhammadyn/blob/main/assets/guthub-header.png)](https://t.me/mukhammadyn) -->
+[![Header](https://github.com/Doniyor27/Doniyor27/blob/main/img/banner.png)](https://t.me/doniyor_27)
 
 
 ### Languages and Tools
