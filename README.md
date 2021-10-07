@@ -32,6 +32,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/doniyor_27)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor27&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor27&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor27&langs_count=8&theme=red)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor27&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
